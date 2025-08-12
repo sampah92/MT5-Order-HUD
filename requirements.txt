@@ -1,0 +1,5 @@
+PyMetaTrader5
+playsound
+pystray
+Pillow
+pywin32
