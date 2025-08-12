@@ -25,11 +25,7 @@
 
 Untuk menjalankan aplikasi ini dari kode sumbernya, Anda perlu menginstal pustaka Python yang diperlukan.
 
-1.  Clone repositori ini:
-    ```bash
-    git clone [https://github.com/nama-pengguna/nama-repositori.git](https://github.com/nama-pengguna/nama-repositori.git)
-    cd nama-repositori
-    ```
+1.  Clone repositori ini
 2.  Instal dependensi menggunakan `pip`:
     ```bash
     pip install -r requirements.txt
@@ -37,7 +33,7 @@ Untuk menjalankan aplikasi ini dari kode sumbernya, Anda perlu menginstal pustak
 
 ### Kontribusi
 
-Kami menerima kontribusi dari siapa pun! Jika Anda ingin membantu, silakan ikuti langkah-langkah berikut:
+Jika Anda ingin membantu, silakan ikuti langkah-langkah berikut:
 
 1.  Fork repositori ini.
 2.  Buat branch baru (`git checkout -b feature/fitur-baru`).
@@ -47,4 +43,4 @@ Kami menerima kontribusi dari siapa pun! Jika Anda ingin membantu, silakan ikuti
 
 ### Lisensi
 
-Proyek ini dilisensikan di bawah [nama lisensi Anda, contoh: MIT License].
+**Lisensi MIT**.
